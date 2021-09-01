@@ -1,0 +1,22 @@
+{
+    "Owner": {
+        "DisplayName": "jeswincloud+1615513335756",
+        "ID": "bfc6eabcb4fc33900fbecf2aab0df9b2d2c311a3a35045f7b879a465d5c5456e"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "Type": "Group",
+                "URI": "http://acs.amazonaws.com/groups/global/AuthenticatedUsers"
+            },
+            "Permission": "FULL_CONTROL"
+        },
+        {
+            "Grantee": {
+                "Type": "Group",
+                "URI": "http://acs.amazonaws.com/groups/global/AuthenticatedUsers"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
